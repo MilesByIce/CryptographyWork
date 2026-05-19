@@ -1,6 +1,4 @@
-# Miles Byrnes
-#4/12/26
-#Cryptography, CMPT436
+
 #were assuming RSA has already been computed, which is why there are no
 #checks for primality for e and tot(n) (plus there is no p and q to check tot(n))
 
