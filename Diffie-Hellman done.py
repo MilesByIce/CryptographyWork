@@ -1,6 +1,4 @@
-# Miles Byrnes
-#4/1/26
-#Cryptography, CMPT436
+
 
 import math
 import random
