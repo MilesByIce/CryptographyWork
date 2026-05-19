@@ -1,7 +1,4 @@
-# Miles Byrnes
-# CMPT436
-# 4/24/26
-# But you must have the HMAC class with at least the indicated methods, and a main routine.
+
 
 from hashlib import sha512
 import base64
