@@ -1,6 +1,4 @@
-# Below is a possible structure for your program. 
-# You don't have to follow this exactly. 
-# But you must have the Birthday_Paradox class with at least the indicated methods, and a main routine.
+
 
 def collision(number_of_people, number_of_days):
 # Input: the number_of_people at the party,
